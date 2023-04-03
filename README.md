@@ -81,5 +81,5 @@ Hi there 👋, I'm
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iamrajiv" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iam shivani" />
 </p>
