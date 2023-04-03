@@ -15,10 +15,7 @@ Hi there 👋, I'm
 <a href="https://twitter.com/therajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge" /></a>
 <br />
 <!-- Coding Platforms -->
-<a href="https://www.codechef.com/users/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codechef&logoColor=ffffff&message=CodeChef&style=for-the-badge" /></a>
-<a href="https://codeforces.com/profile/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codeforces&logoColor=ffffff&message=Codeforces&style=for-the-badge" /></a>
-<a href="https://www.hackerearth.com/@iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
-<a href="https://www.hackerrank.com/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
+
 </p>
 
 <p align="center">
