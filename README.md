@@ -15,14 +15,14 @@ Hi there 👋, I'm
 <a href="https://twitter.com/therajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge" /></a>
 <br />
 <!-- Coding Platforms -->
-<a href="https://www.codechef.com/users/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codechef&logoColor=ffffff&message=CodeChef&style=for-the-badge" /></a>
-<a href="https://codeforces.com/profile/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codeforces&logoColor=ffffff&message=Codeforces&style=for-the-badge" /></a>
-<a href="https://www.hackerearth.com/@iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
-<a href="https://www.hackerrank.com/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
+<a href="https://www.codechef.com/users/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codechef&logoColor=ffffff&message=CodeChef&style=for-the-badge" /></a>
+<a href="https://codeforces.com/profile/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=codeforces&logoColor=ffffff&message=Codeforces&style=for-the-badge" /></a>
+<a href="https://www.hackerearth.com/@iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=HackerEarth&style=for-the-badge" /></a>
+<a href="https://www.hackerrank.com/iam shivani"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=HackerRank&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamrajiv&count_private=true&include_all_commits=true&show_icons=true&title_color=0969da&icon_color=0969da&text_color=24292e&bg_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=iam shivani&count_private=true&include_all_commits=true&show_icons=true&title_color=0969da&icon_color=0969da&text_color=24292e&bg_color=ffffff" />
 </p>
 
 <p align="center">
