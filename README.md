@@ -1,6 +1,6 @@
 <h3 align="center">
 Hi there 👋, I'm
-<a href="https://iamrajiv.github.io">Rajiv</a>
+<a href="https://iam shivani.github.io">Shivani</a>
 </h3>
 
 <p align="center">
