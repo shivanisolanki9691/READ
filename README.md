@@ -6,10 +6,10 @@ Hi there 👋, I'm
 <p align="center">
 <!-- Coding and Social Websites -->
 <a href="https://www.facebook.com/iamshivanisolanki"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge" /></a>
-<a href="https://keybase.io/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge" /></a>
-<a href="https://www.quora.com/profile/Rajiv-Ranjan-Singh-67"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=quora&logoColor=ffffff&message=Quora&style=for-the-badge" /></a>
+<a href="https://www.instagram.com/iamshivanisolanki"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge" /></a>
+<a href="https://keybase.io/iamshivanisolanki"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/iamshivanisolanki"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge" /></a>
+<a href="https://www.quora.com/profile/shivani-Kumari-solanki-67"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=quora&logoColor=ffffff&message=Quora&style=for-the-badge" /></a>
 <a href="https://stackexchange.com/users/14236807/rajiv-ranjan-singh?tab=accounts"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=stack-exchange&logoColor=ffffff&message=Stack%20Exchange&style=for-the-badge" /></a>
 <a href="https://stackoverflow.com/users/10765954/rajiv-ranjan-singh?tab=profile"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=stack-overflow&logoColor=ffffff&message=Stack%20Overflow&style=for-the-badge" /></a>
 <a href="https://twitter.com/therajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=twitter&logoColor=ffffff&message=Twitter&style=for-the-badge" /></a>
@@ -78,5 +78,5 @@ Hi there 👋, I'm
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iam shivani" />
+<img src="https://komarev.com/ghpvc/?color=0969da&style=flat-square&username=iam shivani" /> 
 </p>
