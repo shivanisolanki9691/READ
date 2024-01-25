@@ -5,7 +5,7 @@ Hi there 👋, I'm
 
 <p align="center">
 <!-- Coding and Social Websites -->
-<a href="https://www.facebook.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge" /></a>
+<a href="https://www.facebook.com/iamshivanisolanki"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=facebook&logoColor=ffffff&message=Facebook&style=for-the-badge" /></a>
 <a href="https://www.instagram.com/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=instagram&logoColor=ffffff&message=Instagram&style=for-the-badge" /></a>
 <a href="https://keybase.io/iamrajiv"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=keybase&logoColor=ffffff&message=Keybase&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/iamrajivranjansingh"><img src="https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=for-the-badge" /></a>
